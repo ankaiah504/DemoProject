@@ -10,10 +10,8 @@ import javax.servlet.http.HttpServlet;
 public class Ankaiahshivani extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-    /**
-     * @see HttpServlet#HttpServlet()
-     */
     public Ankaiahshivani() {
+    	select * from table;
         super();
         // TODO Auto-generated constructor stub
     }
